@@ -1,0 +1,17 @@
+*{
+    background-color: aquamarine;
+}
+#number-guess, #result, #history {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+#history {
+    margin-top: 16px;
+}
+  
+.banner {
+    color: blue;
+    font-size: 50px;
+    font-family: sans-serif;
+}
