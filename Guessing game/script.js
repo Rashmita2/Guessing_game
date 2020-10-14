@@ -51,7 +51,7 @@ return wholeNumber;
 //Save the guess history in an array
 function saveGuessHistory(guess) {
  guesses.push(guess);
- console.log(guesses);
+ //console.log(guesses);
 }
 
 //get the values from the guess history
